@@ -6,7 +6,7 @@ test: ../../../Project_Files/datasets/images/testing
 val: ../../../Project_Files/datasets/images/validation
 
 # Path to the directory containing label files
-labels: ../../../Project_Files/labels_yolo
+labels: ../../../Project_Files/datasets/labels
 # Number of classes in your dataset
 nc: 9
 
