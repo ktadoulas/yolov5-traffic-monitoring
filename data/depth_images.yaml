@@ -1,12 +1,12 @@
 # train: c:/Users/kosta/Documents/AI_Engineering/DL/datasets/kitti_left_images/images/training  # Abs Path to training images
-train: ../../../Project_files/datasets/images/training  # Rel Path to training images
+train: ../../Project_files/datasets/images/training  # Rel Path to training images
 # test: c:/Users/kosta/Documents/AI_Engineering/DL/datasets/kitti_left_images/testing/testing      # Path to test images
-test: ../../../Project_files/datasets/images/testing      
+test: ../../Project_files/datasets/images/testing      
 # val: c:/Users/kosta/Documents/AI_Engineering/DL/datasets/kitti_left_images/images/training    # Path to validation images
-val: ../../../Project_files/datasets/images/validation
+val: ../../Project_files/datasets/images/validation
 
 # Path to the directory containing label files
-labels: ../../../Project_files/labels_yolo
+labels: ../../Project_files/labels_yolo
 # Number of classes in your dataset
 nc: 9
 
