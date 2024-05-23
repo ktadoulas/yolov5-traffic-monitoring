@@ -1,6 +1,6 @@
-train: ../Project_Files/left/training/image_2  # Rel Path to training images
-test: ../Project_Files/left/testing/image_2      
-val: ../Project_Files/left/validation/image_2
+train: ../Project_Files/right/training/image_2  # Rel Path to training images
+test: ../Project_Files/right/testing/image_2      
+val: ../Project_Files/right/validation/image_2
 
 # Path to the directory containing label files
 labels: c:/Users/kosta/Documents/AI_Engineering/DL/datasets/kitti_left_images/labels/image_2
