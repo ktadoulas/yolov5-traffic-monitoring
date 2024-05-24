@@ -1,9 +1,9 @@
-train: ../Project_Files/right/training/image_2  # Rel Path to training images
-test: ../Project_Files/right/testing/image_2      
-val: ../Project_Files/right/validation/image_2
+train: ../../../Project_Files/dataset/right/images/train  # Rel Path to training images
+test: ../../../Project_Files/dataset/right/images/test
+val: ../../../Project_Files/dataset/right/images/val
 
 # Path to the directory containing label files
-labels: c:/Users/kosta/Documents/AI_Engineering/DL/datasets/kitti_left_images/labels/image_2
+labels: ../../../Project_Files/dataset/right/labels/train
 # Number of classes in your dataset
 nc: 9
 
