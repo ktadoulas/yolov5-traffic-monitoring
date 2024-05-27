@@ -1,0 +1,20 @@
+train: ../../../Project_Files/depth_dataset_without_color/depth/images/train  # Rel Path to training images
+test: ../../../Project_Files/depth_dataset_without_color/depth/images/test      
+val: .../../../Project_Files/depth_dataset_without_color/depth/images/val
+
+# Path to the directory containing label files
+labels: ../../../Project_Files/depth_dataset_without_color/depth/labels/train
+# Number of classes in your dataset
+nc: 9
+
+# Class names (these should correspond to the classes in your dataset)
+names: 
+  0: Car 
+  1: Van
+  2: Truck
+  3: Pedestrian
+  4: Person_sitting
+  5: Cyclist
+  6: Tram 
+  7: Misc
+  8: DontCare
