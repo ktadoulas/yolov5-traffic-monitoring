@@ -9,9 +9,12 @@ nc: 9
 
 # Class names (these should correspond to the classes in your dataset)
 names: 
-  0: Car
+  0: Car 
   1: Van
   2: Truck
   3: Pedestrian
-  4: Cyclist
-  5: Tram
+  4: Person_sitting
+  5: Cyclist
+  6: Tram 
+  7: Misc
+  8: DontCare
