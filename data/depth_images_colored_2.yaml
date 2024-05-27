@@ -1,9 +1,9 @@
-train: ../../../Project_Files/depth_dataset_without_color/colored/images/train  # Rel Path to training images
-test: ../../../Project_Files/depth_dataset_without_color/colored/images/test      
-val: .../../../Project_Files/depth_dataset_without_color/colored/images/val
+train: ../../../../Project_Files/depth_dataset_without_color/colored/images/train  # Rel Path to training images
+test: ../../../../Project_Files/depth_dataset_without_color/colored/images/test      
+val: .../../../../Project_Files/depth_dataset_without_color/colored/images/val
 
 # Path to the directory containing label files
-labels: ../../../Project_Files/depth_dataset_without_color/colored/labels/train
+labels: ../../../../Project_Files/depth_dataset_without_color/colored/labels/train
 # Number of classes in your dataset
 nc: 9
 
