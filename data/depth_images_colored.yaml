@@ -1,6 +1,6 @@
 train: ../../../Project_Files/depth_dataset/colored/images/train  # Rel Path to training images
 test: ../../../Project_Files/depth_dataset/colored/images/test      
-val: .../../../Project_Files/depth_dataset/colored/images/val
+val: ../../../Project_Files/depth_dataset/colored/images/val
 
 # Path to the directory containing label files
 labels: ../../../Project_Files/depth_dataset/colored/labels/train
